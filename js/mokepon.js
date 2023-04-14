@@ -2,7 +2,7 @@ let ataqueJugador
 let ataqueEnemigo
 let vidasJugador = 3
 let vidasEnemigo = 3
-
+            
 
 
 function iniciarJuego() {
@@ -101,7 +101,7 @@ function revisarVidas(){
     if (vidasEnemigo == 0){
         //GANAMOS
     } else if (vidasJugador == 0){
-    //PERDIMOS
+        //PERDIMOS
     }
     
     
