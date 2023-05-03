@@ -44,6 +44,7 @@ body {
 .tarjeta-de-mokepon img {
     width: 55px;
     height: 55px;
+    margin: 10px
 }
 
 #boton-mascota {
@@ -52,7 +53,7 @@ body {
     border-radius: 20px;
     background-color: transparent;
     border: 2px solid white;
-    margin: 10px;
+    margin-top: 30px;
     color: white;
 }
 
